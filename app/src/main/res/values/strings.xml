@@ -2,5 +2,5 @@
     <string name="app_name">Distance_matrix_api</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="google_maps_api_key">AIzaSyBOD5-j2ElNi1GuIbPEZntT1iNLHKassW4</string>
+    <string name="google_maps_api_key"></string>
 </resources>
